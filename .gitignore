@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+# Added by Mart at 11-2-2015
+*.swp
+*.un~
 
 # C extensions
 *.so
