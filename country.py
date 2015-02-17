@@ -3,7 +3,7 @@
 import sys
 
 class Country():
-
+	"""A class with a name attribute and prints "Hello from {country} when you print the object"""
 	def __init__(self, name):
 		self.name = name
 
